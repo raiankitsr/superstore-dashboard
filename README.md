@@ -4,7 +4,7 @@ A professional 3-tab sales analytics dashboard built with Python and Streamlit.
 Analyzes 9,994 orders across 4 years, 4 regions, and 3 product categories.
 
 ## 🚀 Live Demo
-[➡ Open App on Streamlit Cloud](#) ← replace with your deployed URL
+https://superstore-dashboards.streamlit.app/
 
 ## 📊 What's Inside
 
@@ -47,5 +47,3 @@ streamlit run app.py
 ## 🛠 Tech Stack
 - Python · pandas · Streamlit · Plotly
 
----
-Built for Upwork portfolio · [Hire me](#)
